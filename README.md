@@ -215,4 +215,4 @@ Global Weather 3D is available as a complete free version with all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 23:50:40 UTC
+**Last updated:** 2026-09-21 01:59:36 UTC
